@@ -9,7 +9,16 @@ Based on:
 
 ## Install
 
-TBD
+Using [Composer](http://getcomposer.org/) as a dependency management tool, you can bring `Clover\Text\LTSV` in your environment easily with settings below.
+
+```
+{
+  "require": {
+    "clover/text-forbidden-words": "1.0.*@dev"
+  }
+}
+```
+
 
 ## Usage
 
