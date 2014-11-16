@@ -1,5 +1,8 @@
 # Text-ForbiddenWords
 
+[![Build Status](https://travis-ci.org/hiroy/clover-text-forbidden-words.png?branch=master)](https://travis-ci.org/hiroy/clover-text-forbidden-words)
+
+
 Forbidden words
 
 Based on:
