@@ -9,7 +9,7 @@ Based on:
 
 ## Install
 
-Using [Composer](http://getcomposer.org/) as a dependency management tool, you can bring `Clover\Text\LTSV` in your environment easily with settings below.
+Using [Composer](http://getcomposer.org/) as a dependency management tool, you can bring `Clover\Text\ForbiddenWords` in your environment easily with settings below.
 
 ```
 {
