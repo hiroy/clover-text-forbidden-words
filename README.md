@@ -17,7 +17,7 @@ Using [Composer](http://getcomposer.org/) as a dependency management tool, you c
 ```
 {
   "require": {
-    "clover/text-forbidden-words": "1.0.*@dev"
+    "clover/text-forbidden-words": "~1.0"
   }
 }
 ```
