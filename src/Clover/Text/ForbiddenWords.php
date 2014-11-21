@@ -89,6 +89,7 @@ class ForbiddenWords
         'status',
         'support',
         'team',
+        'teams',
         'terms',
         'terms-of-service',
         'terms_of_service',
